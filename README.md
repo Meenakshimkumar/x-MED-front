@@ -65,7 +65,7 @@ x-MED-front/
 
 2. **Install dependencies:**
    ```bash
-   npm install
+   npm i
    ```
 
 3. **Run the development server:**
